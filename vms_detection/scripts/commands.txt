@@ -1,0 +1,3 @@
+python 03_image_autolabeling.py -b resnet50 -v n
+
+python 04_youtube_recognition.py -b resnet50 -d test -u https://youtu.be/lNhy2mT94Ao
